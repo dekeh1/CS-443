@@ -1,6 +1,7 @@
 # CS-443 Software Quality Assurance and Testing
 
 > *Requirements analysis and test plan design. Testing strategies and techniques. Test coverage using statistical techniques. Code reviews and inspections.*
+
 **Karl R. Wurst**
 <br>Worcester State University
 

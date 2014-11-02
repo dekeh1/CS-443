@@ -1,4 +1,4 @@
-### *CS-443 01 - Fall 2015*
+### *CS-443 01 --- Fall 2015*
 
 # CS-443 Software Quality Assurance and Testing
 

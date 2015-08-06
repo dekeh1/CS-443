@@ -106,6 +106,30 @@ Upon successful completion of the Major in Computer Science, students will be ab
 
 ## Course Topics
 
+* Types of testing
+    * White-box (or glass-box)
+    * Black-box
+    * Static Testing (Verification)
+        * Inspections
+        * Analysis 
+    * Dynamic Testing
+* Testing Levels 
+    * Unit Testing
+    * Module Testing
+    * Integration Testing
+    * System Testing
+    * Acceptance Testing
+* Test Process Maturity
+* Test Automation
+* Coverage Criteria
+* Fault vs Error vs Failure
+* Testing vs Debugging
+* Stubs, Drivers, Mocking
+* Regression Testing
+* Test Process
+* Test Plans
+* Testing Web Applications and Web Services
+
 ## Grading Policies
 Your grade in the course will be determined as follows: 
 

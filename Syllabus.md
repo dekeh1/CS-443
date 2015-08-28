@@ -22,7 +22,13 @@ ST 107
 <a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
 
 ## Textbook
-*TBD*
+<img src=https://images.tandf.co.uk/common/jackets/amazon/978146656/9781466560680.jpg align=left height=110 style="padding-right:10px">
+*Software Testing: A Craftsman’s Approach, Fourth Edition*<br>
+Paul C. Jorgensen<br>
+CRC Press, 2013<br>
+ISBN-13: 9781466560680<br>
+[Textbook website](https://www.crcpress.com/Software-Testing-A-Craftsmans-Approach-Fourth-Edition/Jorgensen/9781466560680)
+
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
@@ -32,6 +38,7 @@ In addition to the textbook, to successfully complete this course you will need:
 	1.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to comm3nicate, and you will be subscribing to OpenMRS mailing lists.    
 	2. 	**GitHub** – We will use GitHub to host our projects.  
 	3.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+	4. **WReSTT-CyLE** – Web-based Repository of Software Testing Tutorials: A Cyber-learning Environment, that seeks to provide students and instructors with guided access to vetted Learning Objects (LOs) in the area of software testing. 
 
 ## Where Does This Course Lead?
 * CS 448 Software Development Capstone
@@ -67,6 +74,8 @@ CS-343 required CM-110 – Public Speaking. You should be able to structure and 
 This course has a prerequisite of MA-150 – Statistics I or MA 302 Probability and Statistics. I expect that you are able to be able to apply basic statistics and combinatorics to test case coverage criteria.
 
 By this point you should have completed MA-220 - Discrete Math I and MA-290 Discrete Math II. I expect you to be comfortable with the Discrete Math topics of (and formal notations for) sets, graphs, functions, finite state machines, boolean algebra predicates and clauses, truth tables (including don't-cares), grammars and regular expressions.
+
+I am also expecting that you have taken CS-348 - Software Process Management. I expect you to have some understanding of the phases of the software lifecycle and be comfortable using a version control system.
 
 ***If you are missing any of this background, you should not take this course.***
 
@@ -126,6 +135,7 @@ Upon successful completion of the Major in Computer Science, students will be ab
     * Integration Testing
     * System Testing
     * Acceptance Testing
+* Test-Driven Development
 * Test Process Maturity
 * Test Automation
 * Coverage Criteria

@@ -82,12 +82,6 @@ I am also expecting that you have taken CS-348 - Software Process Management. I 
 ## Attendance
 You are expected to attend every class. We will be working in groups during class analyzing example programs, writing test cases, and running test code.
 
-## Course Format
-...
-
-## Course Objectives
-...
-
 ## Course-Level Student Learning Outcomes
 Upon successful completion of this course, students will be able to:
 
@@ -110,7 +104,7 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 * Make connections across courses and disciplines.
 
 ## Program-Level Student Learning Outcomes
-This course addresses the following outcomes of the Computer Science Major (see [http://www.worcester.edu/ComputerScienceDept/Shared%20Documents/ProgramOutcomes.aspx]()):
+This course addresses the following outcomes of the Computer Science Major:
 
 Upon successful completion of the Major in Computer Science, students will be able to:
 
@@ -153,7 +147,7 @@ Your grade in the course will be determined as follows:
 Assignment Category | Percentage
 ---|:-:
 Attendance and Participation | 30%
-Homework and Projects | 40%
+Assignments | 40%
 Exams | 30%
 
 ## Grading Scale
@@ -176,10 +170,21 @@ less than 60% | E
 Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
 
 ## Attendance and Participation
+You are expected to attend every class. Class time will be divided between lecture and hands-on, in-class, group work. Past experience has shown that students who do not attend class do not do as well on exams and projects.
 
-## Homework and Projects
+The in-class work will give you a chance to apply the material from the lecture in an environment where you can benefit from the help of the instructor and your classmates. Once you have developed a level of comfort and confidence with the material, then you can be expected to apply it on larger assignments outside of class.
+
+Missed in-class work cannot be made up after the fact. If you know that you will have to miss class, let me know beforehand and we can make arrangements for you to do the in-class work at another time.
+
+## Assignments
+The assignments will give you a chance to apply the material to larger tasks. The assignments will vary in what you will be asked to do - programming projects, written assignments, analysis, etc.
 
 ## Exams
+We will have a midterm exam and a final exam.
+
+The midterm will be given sometime around the week of 12 October 2015.
+
+Our scheduled final exam period is Thursday, 10 December 2015, 8:30-11:30am
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.

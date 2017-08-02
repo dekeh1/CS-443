@@ -1,4 +1,4 @@
-### *CS-443 01 --- Fall 2015*
+### *CS-443 01 --- Fall 2016*
 
 # CS-443 Software Quality Assurance and Testing
 
@@ -13,16 +13,18 @@ Lecture: 3 hours/week
 Dr. Karl R. Wurst<br>
 See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
 
-## Meeting Times and Locations
-TR 8:30-9:45am<br>
+## Meeting Times and Location
+TR 1:00-2:15pmm<br>
 ST 107
 
 ## It's in the Syllabus
-<img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
-<a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
+<span title="http://www.phdcomics.com/comics.php?f=1583"><a href=http://www.phdcomics.com/comics.php?f=1583><img src=http://www.phdcomics.com/comics/archive/phd051013s.gif alt="Cartoon about looking in the syllabus first before asking questions."></a></span>
+
+Obviously, not ***everything*** is in the syllabus, but a lot of it is. Please look here for answers first. If you can't find it here, *then* ask me.
+
 
 ## Textbook
-<img src=https://images.tandf.co.uk/common/jackets/amazon/978146656/9781466560680.jpg align=left height=110 style="padding-right:10px">
+<img src=http://cs.worcester.edu/kwurst/img2/9781466560680.jpg align=left height=110 style="padding-right:10px">
 *Software Testing: A Craftsman’s Approach, Fourth Edition*<br>
 Paul C. Jorgensen<br>
 CRC Press, 2013<br>
@@ -35,13 +37,13 @@ In addition to the textbook, to successfully complete this course you will need:
 
 1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:    
-	1.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to comm3nicate, and you will be subscribing to OpenMRS mailing lists.    
-	2. 	**GitHub** – We will use GitHub to host our projects.  
-	3.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
-	4. **WReSTT-CyLE** – Web-based Repository of Software Testing Tutorials: A Cyber-learning Environment, that seeks to provide students and instructors with guided access to vetted Learning Objects (LOs) in the area of software testing. 
+	1.	**Blackboard** – All course materials and announcements will be made available through the course site on Blackboard. Students will be required to use Blackboard as the course tool and be familiar with uploading files. 
+	2. 	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. 
+	3. 	Version Control/Build/Test/Integration Sites and Tools – We will use sites such as GitHub, GitLab and Travis to host, build, and test our projects.  
+	4.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## Where Does This Course Lead?
-* CS 448 Software Development Capstone
+* CS-448 – Software Development Capstone
 * Your professional career
 
 ## Course Workload Expectations
@@ -58,24 +60,14 @@ You will spend 3 hours per week in class. In addition, you should expect to spen
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
 
 ## Prerequisites
-This course has a prerequisite of CS-343 – Software Construction, Design and Architecture. I expect you to be able to:
 
-* Apply a wide variety of software construction techniques and tools, including state‐based and table­‐driven approaches to low­‐level design of software
-* Take requirements for simple systems and develop software architectures and high-­‐level designs
-* Apply a variety of design patterns, frameworks, and architectures in designing a wide variety of software* Perform object-­‐oriented design and programming with a high level of proficiency
-* Analyze and modify software in order to improve its efficiency, reliability, and maintainability.
+This course has a prerequisite of CS-242 – Data Structures. I expect you to be able to read a problem specification, and read, trace, and understand procedural and object-oriented code. I expect that you have had experience using a unit-testing framework and developing a set of test cases for simple code. I expect that you have had experience using a version control system.
 
-CS-343 required CS-242 – Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.
+This course has a prerequisite of MA-150 – Statistics I or MA-302 – Probability and Statistics. I expect that you are able to be able to apply basic statistics and probability.
 
-CS-343 required EN-252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
+By this point you should have completed CS-225 – Discrete Structures I and CS-295 – Discrete Structures II (previously MA-220 and MA-290). I expect you to be comfortable with the topics of (and formal notations for) sets and their operations, functions and relations, propositional logic and logic operators, graphs (directed and undirected), and finite state machines.
 
-CS-343 required CM-110 – Public Speaking. You should be able to structure and give a professional-quality presentation.
-
-This course has a prerequisite of MA-150 – Statistics I or MA 302 Probability and Statistics. I expect that you are able to be able to apply basic statistics and combinatorics to test case coverage criteria.
-
-By this point you should have completed MA-220 - Discrete Math I and MA-290 Discrete Math II. I expect you to be comfortable with the Discrete Math topics of (and formal notations for) sets, graphs, functions, finite state machines, boolean algebra predicates and clauses, truth tables (including don't-cares), grammars and regular expressions.
-
-I am also expecting that you have taken CS-348 - Software Process Management. I expect you to have some understanding of the phases of the software lifecycle and be comfortable using a version control system.
+I am also expecting that many of you will have taken CS-348 – Software Process Management, and have some understanding of the phases of the software lifecycle and are comfortable using a version control system.
 
 ***If you are missing any of this background, you should not take this course.***
 
@@ -116,39 +108,41 @@ Upon successful completion of the Major in Computer Science, students will be ab
 
 ## Course Topics
 
-* Types of testing
-    * White-box (or glass-box)
-    * Black-box
-    * Static Testing (Verification)
-        * Inspections
-        * Analysis 
-    * Dynamic Testing
-* Testing Levels 
-    * Unit Testing
-    * Module Testing
-    * Integration Testing
-    * System Testing
-    * Acceptance Testing
+* Terminiology - Error, Fault, Failure, Incident, Test, Test Case
+* Test Cases
+* Behavioral vs Structural Testing
+* Specification-Based vs Code-Based Testing
+* Black-Box vs. Gray-Box vs. White/Clear-Box Testing
+* Levels of Testing - Unit, Integration, System
+* Static vs. Dynamic Testing
+* Review of Discrete Math - Set Theory, Functions, Relations, Propositional Logic, Probability Theory, Graph Theory
+* Unit Testing
+    * Specification-based - Boundary Value Testing, Equivalence Class Testing, Decision Table-Based Testing
+    * Code-based - Path Testing, Data Flow Testing 
+    * Code Coverage
+    * JUnit
+* Life Cycle-Based Testing
+* Model-Based Testing
+* Integration Testing
+    * Mocking
+* System Testing
+* Object-Oriented Testing
+* Software Complexity
 * Test-Driven Development
-* Test Process Maturity
+* Test Case Evaluation
+* Code Reviews
 * Test Automation
-* Coverage Criteria
-* Fault vs Error vs Failure
-* Testing vs Debugging
-* Stubs, Drivers, Mocking
-* Regression Testing
-* Test Process
-* Test Plans
-* Testing Web Applications and Web Services
+* Testing Web Applications
 
-## Grading Policies
+## Grade Breakdown
 Your grade in the course will be determined as follows: 
 
 Assignment Category | Percentage
 ---|:-:
 Attendance and Participation | 30%
-Assignments | 40%
+Assignments | 30%
 Exams | 30%
+Self-Directed Reading Blog | 10%
 
 ## Grading Scale
 
@@ -182,9 +176,21 @@ The assignments will give you a chance to apply the material to larger tasks. Th
 ## Exams
 We will have a midterm exam and a final exam.
 
-The midterm will be given sometime around the week of 12 October 2015.
+The midterm is tentively scheduled to be given during class during the week of 17 October 20162016.
 
-Our scheduled final exam period is Thursday, 10 December 2015, 8:30-11:30am
+Our scheduled final exam period is Thursday, 15 December 2016, 12:30-3:30pm
+
+## Self-Directed Reading Blog
+Two of the CS Program-Level Student Learning Outcomes that this course addresses are:
+
+> * Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Mastery)
+> * Communicate effectively both in written and oral form. (Mastery)
+
+You will be required to read outside blogs, articles, and/or books on your own and keep a blog about those readings that you found useful/interesting. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/).
+
+We will also be keeping a list of resources for this class on the CS Department Wiki.
+
+[^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -197,9 +203,11 @@ Late assignments will lose 10% of the maximum points per 24-hour period.
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yQq1-_ujXrM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up. 
 
-I am here to help you understand the material and be successful in the course.
+**Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
 
 ## Contacting Me
 You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/]()) or you may make an appointment for a mutually convenient time.
@@ -208,7 +216,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
-<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br><a href=http://www.phdcomics.com/comics.php?f=1795>http://www.phdcomics.com/comics.php?f=1795</a>
+<span title="http://www.phdcomics.com/comics.php?f=1795"><a href=http://www.phdcomics.com/comics.php?f=1795><img src=http://www.phdcomics.com/comics/archive/phd042215s.gif alt="Cartoon with bad examples of how to send email to your instructor."></a></span>
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
@@ -218,20 +226,21 @@ All students are expected to adhere to the policies as outlined in the Universit
 ## Student Responsibilities 
 
 * Contribute to a class atmosphere conducive to learning for everyone by asking/answering questions, participating in class discussions. Don’t just lurk!
+* When working with a partner, participate actively. Don't let your partner do all the work - you won't learn anything that way.
 * Seek help when necessary
 * Start assignments as soon as they are posted.  Do not wait until the due date to seek help/to do the assignments
 * Make use of the academic success center (see below)
 * Expect to spend at least 9 hours of work per week on classwork.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
-## Americans with Disabilities Act
-Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with the Disability Services Office (DSO). Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. The DSO is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (dso@worcester.edu).  
+## Americans with Disabilities Act/Student Accessibility  Services
+Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with Student Accessibilty Services. Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. Student Accessibility Services is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (<a href="mailto:sas@worcester.edu">sas@worcester.edu</a>). 
 
 ## Tutoring Services/Academic Success Center
-Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
+Tutoring Services are offered through the [Academic Success Center](http://www.worcester.edu/SP-Academic-Success-Center/) (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the ASC at 508-929-8139
 
 ## The Math Center
-The writing center provides free assistance to students in Mathematics.  It is located on the first floor of the Sullivan Academic Building, S143.
+The Math Center provides free assistance to students in Mathematics.  It is located on the first floor of the Sullivan Academic Building, S143.
 
 ## The Writing Center
 The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center’s hours and the Center’s Online Writing Lab, visit their website at [www.worcester.edu/writing]()
@@ -258,16 +267,50 @@ It is in the interest of students, faculty, and administrators to recognize the 
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
+## Student Work Retention Policy
+It is my policy to securely dispose of student work one calendar year after grades have been submitted for a course.
+
 ## Schedule
-Our first class will be on Thursday, 3 September 2015.
+**This schedule is subject to change.**
 
-Our last class will be on Tuesday, 8 December 2015.
+Week | Tuesday | Thursday
+:-: | :-: | :-:1 | 5 September 2017<br>**No Class**<br>Pre-College Conference | 7 September 2017<br>
+2 | 12 September 2017<br> | 14 September 2017<br>3 | 19 September 2017<br> | 21 September 2017<br>
+4 | 26 September 2017<br> | 28 September 2017<br>
+5 | 3 October 2017<br> | 5 October 2017<br>
+6 | 10 October 2017<br>**No Class**<br>I will be away | 12 October 2017<br>
+7 | 17 October 2017<br> | 19 October 2017<br>
+8 | 24 October 2017<br> | 26 October 2017<br>
+9 | 31 October 2017<br> | 2 November 2017<br>
+10 | 7 November 2017<br> | 9 November 2017<br>
+11 | 14 November 2017<br> | 16 November 2017<br>
+12 | 21 November 2017<br> | 23 November 2017<br>**No Class**<br>Thanksgiving Recess
+13 | 28 November 2017<br> | 30 November 2017<br>
+14 | 5 December 2017<br> | 7 December 2017<br>
+Final Exams | | 14 December 2017<br>**Final Exam**<br>12:30-3:30am
 
-We will not have class on Thursday, 26 November 2015 (Thanksgiving).
 
-Our scheduled final exam period is Thursday, 10 December 2015, 8:30-11:30am
+ | Tuesday | Thursday
+--- | :-- | :-- 
+Week 1 | 6 September<br>*Part I: A Mathematical Context*<br>Chapter 1 | 8 September<br>*Part I: A Mathematical Context*<br>Chapters 2, 3, and 4
+Week 2 | 13 September<br>*Part II: Unit Testing*<br>Chapter 5 | 15 September<br>*Part II: Unit Testing*<br>Chapters 5, 6
+Week 3 | 20 September<br>*Part II: Unit Testing*<br>Chapter 6 | 22 September<br>*Part II: Unit Testing*<br>Chapter 7
+Week 4 | 27 September<br>*Part II: Unit Testing*<br>Chapters 7, 8 | 29 September<br>*Part II: Unit Testing*<br>Chapter 8
+Week 5 | 4 October<br>*Part II: Unit Testing*<br>Chapter 9 | 6 October<br>*Part II: Unit Testing*<br>Chapters 9, 10
+Week 6 | 11 October<br>**No Class - I will be away** | 13 October<br>*Part II: Unit Testing*<br>Chapter 10
+Week 7 | 18 October<br>**Midterm Exam** | 20 October<br>*Part III: Beyond Unit Testing*<br>Chapters 11, 12
+Week 8 | 25 October<br>*Part III: Beyond Unit Testing*<br>Chapter 13 | 27 October<br>*Part III: Beyond Unit Testing*<br>Chapter 13
+Week 9 | 1 November<br>*Part III: Beyond Unit Testing*<br>Chapter 14 | 3 November<br>*Part III: Beyond Unit Testing*<br>Chapters 14, 15
+Week 10 | 8 November<br>*Part III: Beyond Unit Testing*<br>Chapter 15 | 10 November<br>*Part III: Beyond Unit Testing*<br>Chapter 16
+Week 11 | 15 November<br>*Part III: Beyond Unit Testing*<br>Chapter 17 | 17 November<br>*Part III: Beyond Unit Testing*<br>Chapter 18, 19
+Week 12 | 22 November<br>*Part III: Beyond Unit Testing*<br>Chapter 19 | 24 November<br>**No Class - Thanksgiving Recess**
+Week 13 | 29 November<br>*Part III: Beyond Unit Testing*<br>Chapters 20, 21 | 1 December<br>*Part III: Beyond Unit Testing*<br>Chapter 22
+Week 14 | 6 December<br>*Part III: Beyond Unit Testing*<br>Chapter 22 | 8 December<br>*Part III: Beyond Unit Testing*<br>Chapter 23
+
+**Final Exam Week - Final Exam on Thursday, 15 December - 12:30-3:30pm**
+
 
 ##Copyright and License
-####&copy; 2015 Karl R. Wurst, Worcester State University
+####&copy; 2016 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/]() or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

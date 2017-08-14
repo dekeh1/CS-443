@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.2, Revised 14 August 2017*
+*Version 2017-Fall-0.3, Revised 14 August 2017*
 ### *CS-443 01 --- Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -181,9 +181,9 @@ The assignments will give you a chance to apply the material to larger tasks. Th
 ## Exams
 We will have a midterm exam and a final exam.
 
-The midterm is tentively scheduled to be given during class during the week of 17 October 20162016.
+The midterm is tentively scheduled to be given during class during the week of 16 October 2017.
 
-Our scheduled final exam period is Thursday, 15 December 2016, 12:30-3:30pm
+Our scheduled final exam period is Thursday, 14 December 2017, 12:30-3:30pm
 
 ## Self-Directed Reading Blog
 Two of the CS Program-Level Student Learning Outcomes that this course addresses are:
@@ -292,7 +292,8 @@ Week | Tuesday | Thursday
 14 | 5 December 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 22 | 7 December 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 23
 Final Exams | | 14 December 2017<br>**Final Exam**<br>12:30-3:30am
 
-##Copyright and License
-####&copy; 2016 Karl R. Wurst, Worcester State University
+## Copyright and License
+
+#### &copy; 2017 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/]() or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

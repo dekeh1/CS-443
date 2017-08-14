@@ -1,4 +1,8 @@
-### *CS-443 01 --- Fall 2016*
+*Version 2017-Fall-0.2, Revised 14 August 2017*
+### *CS-443 01 --- Fall 2017*
+
+<font color=red size=7>DRAFT</font><br>
+<font color=red size=4>This is a draft version. It is subject to change until the first day of class on 7 September 2017.</font>
 
 # CS-443 Software Quality Assurance and Testing
 
@@ -20,17 +24,21 @@ ST 107
 ## It's in the Syllabus
 <span title="http://www.phdcomics.com/comics.php?f=1583"><a href=http://www.phdcomics.com/comics.php?f=1583><img src=http://www.phdcomics.com/comics/archive/phd051013s.gif alt="Cartoon about looking in the syllabus first before asking questions."></a></span>
 
-Obviously, not ***everything*** is in the syllabus, but a lot of it is. Please look here for answers first. If you can't find it here, *then* ask me.
-
+**If you don't find the answer to your question in the syllabus, then please ask me.**
 
 ## Textbook
-<img src=http://cs.worcester.edu/kwurst/img2/9781466560680.jpg align=left height=110 style="padding-right:10px">
-*Software Testing: A Craftsman’s Approach, Fourth Edition*<br>
-Paul C. Jorgensen<br>
-CRC Press, 2013<br>
-ISBN-13: 9781466560680<br>
-[Textbook website](https://www.crcpress.com/Software-Testing-A-Craftsmans-Approach-Fourth-Edition/Jorgensen/9781466560680)
-
+<table cellpadding="1" border="0">
+<tbody>
+<tr>
+<td><img src="http://cs.worcester.edu/kwurst/img/9781466560680.jpg" width="110" /></td>
+<td><em>Software Testing: A Craftsman’s Approach, Fourth Edition</em><br />
+Paul C. Jorgensen<br />
+CRC Press, 2013<br />
+ISBN-13: 9781466560680<br /> 
+<a target="_blank" href="https://www.crcpress.com/Software-Testing-A-Craftsmans-Approach-Fourth-Edition/Jorgensen/9781466560680">Textbook website</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
@@ -70,9 +78,6 @@ By this point you should have completed CS-225 – Discrete Structures I and CS-
 I am also expecting that many of you will have taken CS-348 – Software Process Management, and have some understanding of the phases of the software lifecycle and are comfortable using a version control system.
 
 ***If you are missing any of this background, you should not take this course.***
-
-## Attendance
-You are expected to attend every class. We will be working in groups during class analyzing example programs, writing test cases, and running test code.
 
 ## Course-Level Student Learning Outcomes
 Upon successful completion of this course, students will be able to:
@@ -203,8 +208,6 @@ Late assignments will lose 10% of the maximum points per 24-hour period.
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yQq1-_ujXrM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up. 
 
 **Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
@@ -233,8 +236,8 @@ All students are expected to adhere to the policies as outlined in the Universit
 * Expect to spend at least 9 hours of work per week on classwork.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
-## Americans with Disabilities Act/Student Accessibility  Services
-Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with Student Accessibilty Services. Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. Student Accessibility Services is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (<a href="mailto:sas@worcester.edu">sas@worcester.edu</a>). 
+## Student Accessibility Services
+Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with the Student Accessibility Services Office (SAS). Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. The SAS is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (sas@worcester.edu). 
 
 ## Tutoring Services/Academic Success Center
 Tutoring Services are offered through the [Academic Success Center](http://www.worcester.edu/SP-Academic-Success-Center/) (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the ASC at 508-929-8139
@@ -274,41 +277,20 @@ It is my policy to securely dispose of student work one calendar year after grad
 **This schedule is subject to change.**
 
 Week | Tuesday | Thursday
-:-: | :-: | :-:1 | 5 September 2017<br>**No Class**<br>Pre-College Conference | 7 September 2017<br>
-2 | 12 September 2017<br> | 14 September 2017<br>3 | 19 September 2017<br> | 21 September 2017<br>
-4 | 26 September 2017<br> | 28 September 2017<br>
-5 | 3 October 2017<br> | 5 October 2017<br>
-6 | 10 October 2017<br>**No Class**<br>I will be away | 12 October 2017<br>
-7 | 17 October 2017<br> | 19 October 2017<br>
-8 | 24 October 2017<br> | 26 October 2017<br>
-9 | 31 October 2017<br> | 2 November 2017<br>
-10 | 7 November 2017<br> | 9 November 2017<br>
-11 | 14 November 2017<br> | 16 November 2017<br>
-12 | 21 November 2017<br> | 23 November 2017<br>**No Class**<br>Thanksgiving Recess
-13 | 28 November 2017<br> | 30 November 2017<br>
-14 | 5 December 2017<br> | 7 December 2017<br>
+:-: | :-: | :-:1 | 5 September 2017<br>**No Class**<br>Pre-College Conference | 7 September 2017<br>*Part I: A Mathematical Context*<br>Chapter 1 
+2 | 12 September 2017<br>*Part I: A Mathematical Context*<br>Chapters 2, 3, and 4 | 14 September 2017<br>*Part II: Unit Testing*<br>Chapter 53 | 19 September 2017<br>*Part II: Unit Testing*<br>Chapters 5, 6 | 21 September 2017<br>*Part II: Unit Testing*<br>Chapter 6
+4 | 26 September 2017<br>*Part II: Unit Testing*<br>Chapter 7 | 28 September 2017<br>*Part II: Unit Testing*<br>Chapters 7, 8
+5 | 3 October 2017<br>*Part II: Unit Testing*<br>Chapter 8 | 5 October 2017<br>*Part II: Unit Testing*<br>Chapter 9
+6 | 10 October 2017<br>**No Class**<br>I will be away | 12 October 2017<br>*Part II: Unit Testing*<br>Chapter 10
+7 | 17 October 2017<br>**Midterm Exam** | 19 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapters 11, 12
+8 | 24 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 13 | 26 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 13
+9 | 31 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 14 | 2 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapters 14, 15
+10 | 7 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 15 | 9 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 16
+11 | 14 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 17 | 16 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 18, 19
+12 | 21 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 19 | 23 November 2017<br>**No Class**<br>Thanksgiving Recess
+13 | 28 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapters 20, 21 | 30 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 22
+14 | 5 December 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 22 | 7 December 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 23
 Final Exams | | 14 December 2017<br>**Final Exam**<br>12:30-3:30am
-
-
- | Tuesday | Thursday
---- | :-- | :-- 
-Week 1 | 6 September<br>*Part I: A Mathematical Context*<br>Chapter 1 | 8 September<br>*Part I: A Mathematical Context*<br>Chapters 2, 3, and 4
-Week 2 | 13 September<br>*Part II: Unit Testing*<br>Chapter 5 | 15 September<br>*Part II: Unit Testing*<br>Chapters 5, 6
-Week 3 | 20 September<br>*Part II: Unit Testing*<br>Chapter 6 | 22 September<br>*Part II: Unit Testing*<br>Chapter 7
-Week 4 | 27 September<br>*Part II: Unit Testing*<br>Chapters 7, 8 | 29 September<br>*Part II: Unit Testing*<br>Chapter 8
-Week 5 | 4 October<br>*Part II: Unit Testing*<br>Chapter 9 | 6 October<br>*Part II: Unit Testing*<br>Chapters 9, 10
-Week 6 | 11 October<br>**No Class - I will be away** | 13 October<br>*Part II: Unit Testing*<br>Chapter 10
-Week 7 | 18 October<br>**Midterm Exam** | 20 October<br>*Part III: Beyond Unit Testing*<br>Chapters 11, 12
-Week 8 | 25 October<br>*Part III: Beyond Unit Testing*<br>Chapter 13 | 27 October<br>*Part III: Beyond Unit Testing*<br>Chapter 13
-Week 9 | 1 November<br>*Part III: Beyond Unit Testing*<br>Chapter 14 | 3 November<br>*Part III: Beyond Unit Testing*<br>Chapters 14, 15
-Week 10 | 8 November<br>*Part III: Beyond Unit Testing*<br>Chapter 15 | 10 November<br>*Part III: Beyond Unit Testing*<br>Chapter 16
-Week 11 | 15 November<br>*Part III: Beyond Unit Testing*<br>Chapter 17 | 17 November<br>*Part III: Beyond Unit Testing*<br>Chapter 18, 19
-Week 12 | 22 November<br>*Part III: Beyond Unit Testing*<br>Chapter 19 | 24 November<br>**No Class - Thanksgiving Recess**
-Week 13 | 29 November<br>*Part III: Beyond Unit Testing*<br>Chapters 20, 21 | 1 December<br>*Part III: Beyond Unit Testing*<br>Chapter 22
-Week 14 | 6 December<br>*Part III: Beyond Unit Testing*<br>Chapter 22 | 8 December<br>*Part III: Beyond Unit Testing*<br>Chapter 23
-
-**Final Exam Week - Final Exam on Thursday, 15 December - 12:30-3:30pm**
-
 
 ##Copyright and License
 ####&copy; 2016 Karl R. Wurst, Worcester State University

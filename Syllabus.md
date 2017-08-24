@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.3, Revised 14 August 2017*
+*Version 2017-Fall-0.4, Revised 24 August 2017*
 ### *CS-443 01 --- Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -100,6 +100,7 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 * Display socially responsible behavior and act as socially responsible agents in the world.
 * Make connections across courses and disciplines.
 
+## Software Development Concentration Student Learning OutcomesGraduates of the Software Development Concentration will be able to (in addition to the Computer Science Major Program Learning Outcomes):1.	Work with stakeholders to specify, design, develop, test, modify, and document a software system. (Mastery)2.	Organize, plan, follow, and improve on, appropriate software development methodologies and team processes for a software project. (Emphasis)3.	Evaluate, select, and use appropriate tools for source code control, build, test, deployment, and documentation management. (Emphasis)4.	Evaluate, select, and apply appropriate testing techniques and tools, develop test cases, and perform software reviews. (Emphasis)5.	Apply professional judgement, exhibit professional behavior, and keep skills up-to-date. (Mastery)
 ## Program-Level Student Learning Outcomes
 This course addresses the following outcomes of the Computer Science Major:
 

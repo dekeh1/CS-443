@@ -1,5 +1,5 @@
-*Version 2017-Fall-0.4, Revised 24 August 2017*
-### *CS-443 01 --- Fall 2017*
+*Version 2017-Fall-0.5, Revised 29 August 2017*
+### *CS-443 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
 <font color=red size=4>This is a draft version. It is subject to change until the first day of class on 7 September 2017.</font>
@@ -47,7 +47,7 @@ In addition to the textbook, to successfully complete this course you will need:
 2.	**Internet Access:** You will need Internet access for access to:    
 	1.	**Blackboard** – All course materials and announcements will be made available through the course site on Blackboard. Students will be required to use Blackboard as the course tool and be familiar with uploading files. 
 	2. 	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. 
-	3. 	Version Control/Build/Test/Integration Sites and Tools – We will use sites such as GitHub, GitLab and Travis to host, build, and test our projects.  
+	3. 	**Version Control/Build/Test/Integration Sites and Tools** – We will use sites such as GitHub, GitLab and Travis to host, build, and test our projects.  
 	4.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## Where Does This Course Lead?
@@ -75,7 +75,7 @@ This course has a prerequisite of MA-150 – Statistics I or MA-302 – Probabil
 
 By this point you should have completed CS-225 – Discrete Structures I and CS-295 – Discrete Structures II (previously MA-220 and MA-290). I expect you to be comfortable with the topics of (and formal notations for) sets and their operations, functions and relations, propositional logic and logic operators, graphs (directed and undirected), and finite state machines.
 
-I am also expecting that many of you will have taken CS-348 – Software Process Management, and have some understanding of the phases of the software lifecycle and are comfortable using a version control system.
+I am also expecting that many of you will have taken CS-348 – Software Process Management, and have some understanding of the phases of the software lifecycle and are comfortable using a version control system and a build system.
 
 ***If you are missing any of this background, you should not take this course.***
 
@@ -100,7 +100,17 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 * Display socially responsible behavior and act as socially responsible agents in the world.
 * Make connections across courses and disciplines.
 
-## Software Development Concentration Student Learning OutcomesGraduates of the Software Development Concentration will be able to (in addition to the Computer Science Major Program Learning Outcomes):1.	Work with stakeholders to specify, design, develop, test, modify, and document a software system. (Mastery)2.	Organize, plan, follow, and improve on, appropriate software development methodologies and team processes for a software project. (Emphasis)3.	Evaluate, select, and use appropriate tools for source code control, build, test, deployment, and documentation management. (Emphasis)4.	Evaluate, select, and apply appropriate testing techniques and tools, develop test cases, and perform software reviews. (Emphasis)5.	Apply professional judgement, exhibit professional behavior, and keep skills up-to-date. (Mastery)
+## Software Development Concentration Student Learning Outcomes
+This course addresses the following outcomes of the Software Development Concentration of the Computer Science Major:
+
+Graduates of the Software Development Concentration will be able to (in addition to the Computer Science Major Program Learning Outcomes):
+
+1.	Work with stakeholders to specify, design, develop, test, modify, and document a software system. (Mastery)
+2.	Organize, plan, follow, and improve on, appropriate software development methodologies and team processes for a software project. (Emphasis)
+3.	Evaluate, select, and use appropriate tools for source code control, build, test, deployment, and documentation management. (Emphasis)
+4.	Evaluate, select, and apply appropriate testing techniques and tools, develop test cases, and perform software reviews. (Emphasis)
+5.	Apply professional judgement, exhibit professional behavior, and keep skills up-to-date. (Mastery)
+
 ## Program-Level Student Learning Outcomes
 This course addresses the following outcomes of the Computer Science Major:
 
@@ -140,44 +150,77 @@ Upon successful completion of the Major in Computer Science, students will be ab
 * Test Automation
 * Testing Web Applications
 
-## Grade Breakdown
-Your grade in the course will be determined as follows: 
+## Grading Policies
 
-Assignment Category | Percentage
----|:-:
-Attendance and Participation | 30%
-Assignments | 30%
-Exams | 30%
-Self-Directed Reading Blog | 10%
+I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
 
-## Grading Scale
+As an example, imagine a course with two major learning outcomes: X and Y. It is widely considered that a course grade of C indicates that a student is minimally competent in achieving the course outcomes. However, if the student were to receive a grade of 100 for outcome X, and a grade of 40 for outcome Y, the student would still have a 70 (C-) average for the course. Yet the student is clearly not competent in outcome Y.
 
-Percentage | Letter Grade 
----|:-:
-93-100% | A
-90-93% | A-
-87-90% | B+
-83-87% | B
-80-83% | B-
-77-80% | C+
-73-77% | C
-70-73% | C-
-67-70% | D+
-63-67% | D
-60-63% | D-
-less than 60% | E 
+Therefore the grading in this course will be handled in a different manner:
 
-Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
+* All assignments will be graded on an ***Acceptable***/***Not Acceptable*** basis, based on whether the student work meets the instructor-supplied specification. 
+* A minimum collection of assignments, indicating competency in the course learning outcomes, must be completed in an ***Acceptable*** manner to earn a passing course grade (D).
+* Higher passing grades (A, B, C) can be earned by completing more assignments and/or assignments that show higher-level thinking and learning skills.
+
+### Assignment Grading
+
+* All assignments in this course will be graded exclusively on an ***Acceptable***/***Not Acceptable*** basis. 
+* **For each assignment, you will be given a detailed specification explaining what is required for the work to be considered *Acceptable* (passing).** 
+* Failing to meet *any part* of the specification will result in the work being *Not Acceptable* (failing). 
+* There will be no partial credit given. 
+* If you are unclear on what the specification requires, it is your responsibility to ask me for clarification.
+* It will be possible to drop a limited number of assignments with *Not Acceptable* grades (see *Tokens* below).
+* It will be possible to revise and resubmit a limited number of assignments with *Not Acceptable* grades (see *Revision and Resubmission of Work* below).
+
+### Course Grade Determination
+
+Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner. See the table below:
+
+Assignment | Earn A Grade | Earn B Grade | Earn C Grade | Earn D Grade 
+--- | :-: | :-: | :-: | :-:
+Attendance and Participation<br>&nbsp;(out of 24 classes) | 23 | 22 | 21 | 20
+Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 8) |
+&nbsp;&nbsp;&mdash; Base Assignment |  *n* | *n* | *n*  | *n* - 1
+&nbsp;&nbsp;&mdash; Intermediate "Add-On" |  5 | 3 | 1 | 
+&nbsp;&nbsp;&mdash; Advanced "Add-On" | 2 | 1 |  | 
+Average of Exam grades | 85% or higher | 75% or higher | 65% or higher | 60% or higher 
+Self-Directed Professional Development Blog Entries<br>&nbsp;(out of 14 weeks) | 10 | 8 | 6 | 4
+
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 8 acceptable "Self-Directed Reading Blog Entries", you will earn a C grade.
+* **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
 
 ## Attendance and Participation
-You are expected to attend every class. Class time will be divided between lecture and hands-on, in-class, group work. Past experience has shown that students who do not attend class do not do as well on exams and projects.
+* For class sessions with a specific lab assignment, you are expected to work on the assigned laboratory material within your group. Every member of the group is expected to contribute. The group is expected to complete the lab assignment or make substantial progress toward the completion of the lab assignment. If you complete the assigned material before the end of class you must show the instructor before leaving.
+* For class sessions with no specific lab assignment, you are expected to be paying attention, participating in the class discussion, and asking questions.
+* Arriving late and leaving early (unless you have finished and shown your work to the instructor) will result in your work being considered "Not Acceptable" for that lab session.
+* Working on things that are not part of the work for this class during class time will result in your work being considered "Not Acceptable" for that lab session.
 
-The in-class work will give you a chance to apply the material from the lecture in an environment where you can benefit from the help of the instructor and your classmates. Once you have developed a level of comfort and confidence with the material, then you can be expected to apply it on larger assignments outside of class.
-
-Missed in-class work cannot be made up after the fact. If you know that you will have to miss class, let me know beforehand and we can make arrangements for you to do the in-class work at another time.
+*A more complete specification for "Acceptable" (passing) attendance will be given during the semester.*
 
 ## Assignments
 The assignments will give you a chance to apply the material to larger tasks. The assignments will vary in what you will be asked to do - programming projects, written assignments, analysis, etc.
+
+### Base Assignment
+Every assignment will have a *base assignment* portion that must be completed for the assignment to be considered "Acceptable". This will generally involve developing tests, determining suitable test inputs, and/or determining suitable test paths.
+
+* Anyone working to earn a grade of C or higher must submit "Acceptable" work for **all** Base Assignments.
+*  Anyone working to earn a grade of D or higher must submit "Acceptable" work for **all but one** of the Base Assignments.
+
+*A more complete specification for an "Acceptable" (passing) Base Assignment will be given during with each assignment.*
+
+### Intermediate "Add-On"
+Each assignment will also have an *Intermediate Add-On* portion can be completed for anyone working for a fourse grade of C or higher. This will involve more detailed analysis of the developed tests, test inputs, and/or test paths.
+
+* Differing numbers of Intermediate "Add-Ons" are required for different passing grades of C or higher. See the table under *Course Grade Determination*.
+
+*A more complete specification for "Acceptable" (passing) Intermediate "Add-Ons" will be given during with each assignment.*
+
+### Advanced "Add-On"
+Each assignment will also have an *Advanced Add-On* portion can be completed for anyone working for a fourse grade of B or higher. This will involve even more detailed analysis of the developed tests, test inputs, and/or test paths.
+
+* Differing numbers of Advanced "Add-Ons" are required for different passing grades of B or higher. See the table under *Course Grade Determination*.
+
+*A more complete specification for "Acceptable" (passing) Advanced "Add-Ons" will be given during with each assignment.*
 
 ## Exams
 We will have a midterm exam and a final exam.
@@ -186,15 +229,17 @@ The midterm is tentively scheduled to be given during class during the week of 1
 
 Our scheduled final exam period is Thursday, 14 December 2017, 12:30-3:30pm
 
-## Self-Directed Reading Blog
+* Differing exam averages are required for different passing grades. See the table under *Course Grade Determination*.
+
+## Self-Directed Professional Development Blog
 Two of the CS Program-Level Student Learning Outcomes that this course addresses are:
 
 > * Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Mastery)
 > * Communicate effectively both in written and oral form. (Mastery)
 
-You will be required to read outside blogs, articles, and/or books on your own and keep a blog about those readings that you found useful/interesting. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/).
+You will be required to read outside blogs, articles, and/or books; listen to podcasts, etc. on your own and keep a blog about those items that you found useful/interesting. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/).
 
-We will also be keeping a list of resources for this class on the CS Department Wiki.
+* Differing numbers of blog entries are required for different passing grades. See the table under *Course Grade Determination*.
 
 [^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
@@ -204,7 +249,27 @@ All work will be submitted electronically through a variety of tools. The due da
 **Please do not submit assignments to me via email.** It is difficult for me to keep track of them and I often fail to remember that they are in my mailbox when it comes time to grade the assignment.
 
 ## Late Submissions
-Late assignments will lose 10% of the maximum points per 24-hour period.
+Late work will not be accepted. (See *Tokens* below.)
+
+## Revision and Resubmission of Work
+
+Because your first attempt at producing acceptable work for a new category of assignment may be difficult due to being unfamiliar with the specification and not having had any feedback yet, you may revise and resubmit ***a single*** assignment in each of the following categories *only*:
+
+* Base Assignment
+* Intermediate Assignment "Add-On"
+* Advanced Assignment "Add-On"
+* Self-Directed Professional Development Blog Entry
+
+## Tokens
+Each student will be credited with 2 tokens. Each token can be used to:
+
+* replace a single missed class session
+* turn in an assignment late by 24 hours
+* revise and resubmit an assignment that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date.
+
+### Token Accounting
+* Unused tokens will be kept track of in the Blackboard *My Grades* area.
+* Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
@@ -225,7 +290,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
 ## Code of Conduct/Classroom Civility
-All students are expected to adhere to the policies as outlined in the University's Student Code of Conduct (<a href="http://www.worcester.edu/CodeofConduct/" target="_blank">http://www.worcester.edu/CodeofConduct/</a>).
+All students are expected to adhere to the policies as outlined in the University's Student Code of Conduct.
 
 ## Student Responsibilities 
 
@@ -267,7 +332,7 @@ Academic integrity is important to the integrity of the Worcester State communit
 
 It is in the interest of students, faculty, and administrators to recognize the importance of academic integrity and to ensure that academic standards at Worcester State remain strong. Only by maintaining high standards of academic honesty can we protect the value of the educational process and the credibility of the institution and its graduates in the larger community.
 
-**You should familiarize yourself with Worcester State College's Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears in: <a href="http://www.worcester.edu/CodeofConduct/" target="_blank">http://www.worcester.edu/CodeofConduct/</a>**
+**You should familiarize yourself with Worcester State College’s Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears at: [http://www.worcester.edu/Academic-Policies/](http://www.worcester.edu/Academic-Policies/)**
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 

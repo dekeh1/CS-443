@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.5, Revised 29 August 2017*
+*Version 2017-Fall-0.6, Revised 30 August 2017*
 ### *CS-443 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -105,10 +105,10 @@ This course addresses the following outcomes of the Software Development Concent
 
 Graduates of the Software Development Concentration will be able to (in addition to the Computer Science Major Program Learning Outcomes):
 
-1.	Work with stakeholders to specify, design, develop, test, modify, and document a software system. (Mastery)
-2.	Organize, plan, follow, and improve on, appropriate software development methodologies and team processes for a software project. (Emphasis)
-3.	Evaluate, select, and use appropriate tools for source code control, build, test, deployment, and documentation management. (Emphasis)
-4.	Evaluate, select, and apply appropriate testing techniques and tools, develop test cases, and perform software reviews. (Emphasis)
+1.	Work with stakeholders to specify, design, develop, test, modify, and document a software system. (Introduction)
+2.	Organize, plan, follow, and improve on, appropriate software development methodologies and team processes for a software project. (Introduction)
+3.	Evaluate, select, and use appropriate tools for source code control, build, test, deployment, and documentation management. (Introduction)
+4.	Evaluate, select, and apply appropriate testing techniques and tools, develop test cases, and perform software reviews. (Mastery)
 5.	Apply professional judgement, exhibit professional behavior, and keep skills up-to-date. (Mastery)
 
 ## Program-Level Student Learning Outcomes
@@ -209,14 +209,14 @@ Every assignment will have a *base assignment* portion that must be completed fo
 *A more complete specification for an "Acceptable" (passing) Base Assignment will be given during with each assignment.*
 
 ### Intermediate "Add-On"
-Each assignment will also have an *Intermediate Add-On* portion can be completed for anyone working for a fourse grade of C or higher. This will involve more detailed analysis of the developed tests, test inputs, and/or test paths.
+Each assignment will also have an *Intermediate Add-On* portion can be completed for anyone working for a course grade of C or higher. This will involve more detailed analysis of the developed tests, test inputs, and/or test paths.
 
 * Differing numbers of Intermediate "Add-Ons" are required for different passing grades of C or higher. See the table under *Course Grade Determination*.
 
 *A more complete specification for "Acceptable" (passing) Intermediate "Add-Ons" will be given during with each assignment.*
 
 ### Advanced "Add-On"
-Each assignment will also have an *Advanced Add-On* portion can be completed for anyone working for a fourse grade of B or higher. This will involve even more detailed analysis of the developed tests, test inputs, and/or test paths.
+Each assignment will also have an *Advanced Add-On* portion can be completed for anyone working for a course grade of B or higher. This will involve even more detailed analysis of the developed tests, test inputs, and/or test paths.
 
 * Differing numbers of Advanced "Add-Ons" are required for different passing grades of B or higher. See the table under *Course Grade Determination*.
 

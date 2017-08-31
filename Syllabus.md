@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.6, Revised 30 August 2017*
+*Version 2017-Fall-0.7, Revised 31 August 2017*
 ### *CS-443 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -240,6 +240,7 @@ Two of the CS Program-Level Student Learning Outcomes that this course addresses
 You will be required to read outside blogs, articles, and/or books; listen to podcasts, etc. on your own and keep a blog about those items that you found useful/interesting. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/).
 
 * Differing numbers of blog entries are required for different passing grades. See the table under *Course Grade Determination*.
+    * I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.** 
 
 [^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
@@ -265,11 +266,13 @@ Each student will be credited with 2 tokens. Each token can be used to:
 
 * replace a single missed class session
 * turn in an assignment late by 24 hours
+* turn in a second blog entry in an a single week
 * revise and resubmit an assignment that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date.
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
 * Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
+* Unused tokens have no other value at the end of the semester e.g. they cannot be used for extra credit points.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.

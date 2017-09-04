@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.7, Revised 31 August 2017*
+*Version 2017-Fall-0.8, Revised 4 September 2017*
 ### *CS-443 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -174,20 +174,29 @@ Therefore the grading in this course will be handled in a different manner:
 
 ### Course Grade Determination
 
-Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner. See the table below:
+Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner.
 
-Assignment | Earn A Grade | Earn B Grade | Earn C Grade | Earn D Grade 
+#### Base Grade
+
+Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn Base Grade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 Attendance and Participation<br>&nbsp;(out of 24 classes) | 23 | 22 | 21 | 20
 Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 8) |
 &nbsp;&nbsp;&mdash; Base Assignment |  *n* | *n* | *n*  | *n* - 1
 &nbsp;&nbsp;&mdash; Intermediate "Add-On" |  5 | 3 | 1 | 
 &nbsp;&nbsp;&mdash; Advanced "Add-On" | 2 | 1 |  | 
-Average of Exam grades | 85% or higher | 75% or higher | 65% or higher | 60% or higher 
 Self-Directed Professional Development Blog Entries<br>&nbsp;(out of 14 weeks) | 10 | 8 | 6 | 4
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 8 acceptable "Self-Directed Reading Blog Entries", you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
+
+#### Plus or Minus Grade Modifiers
+
+* You will have a ***minus*** modifier applied to your base grade if the average of your exam grades is 75% or lower.
+* You will have a ***plus*** modifier applied to your base grade if the average of your exam grades is 85% or higher.
+* Each unused token remaining at the end of the semester can be used to increase the exam average by 2 percentage points.
+
+*Note: WSU has no A+ grade.*
 
 ## Attendance and Participation
 * For class sessions with a specific lab assignment, you are expected to work on the assigned laboratory material within your group. Every member of the group is expected to contribute. The group is expected to complete the lab assignment or make substantial progress toward the completion of the lab assignment. If you complete the assigned material before the end of class you must show the instructor before leaving.
@@ -229,8 +238,6 @@ The midterm is tentively scheduled to be given during class during the week of 1
 
 Our scheduled final exam period is Thursday, 14 December 2017, 12:30-3:30pm
 
-* Differing exam averages are required for different passing grades. See the table under *Course Grade Determination*.
-
 ## Self-Directed Professional Development Blog
 Two of the CS Program-Level Student Learning Outcomes that this course addresses are:
 
@@ -262,17 +269,16 @@ Because your first attempt at producing acceptable work for a new category of as
 * Self-Directed Professional Development Blog Entry
 
 ## Tokens
-Each student will be credited with 2 tokens. Each token can be used to:
+Each student will be credited with 5 tokens. Each token can be used to:
 
-* replace a single missed class session
+* replace a single missed class session (up to a maximum of 3 missed class sessions)
 * turn in an assignment late by 24 hours
 * turn in a second blog entry in an a single week
-* revise and resubmit an assignment that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date.
+* revise and resubmit an assignment (up to a maximum of 2) that was judged "not acceptable". Any work to be revised and resubmitted must have been submitted by the original due date. 
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
 * Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
-* Unused tokens have no other value at the end of the semester e.g. they cannot be used for extra credit points.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.

@@ -1,4 +1,4 @@
-*Version 2017-Fall-0.8, Revised 4 September 2017*
+*Version 2017-Fall-0.9, Revised 6 September 2017*
 ### *CS-443 01 &mdash; Fall 2017*
 
 <font color=red size=7>DRAFT</font><br>
@@ -269,7 +269,9 @@ Because your first attempt at producing acceptable work for a new category of as
 * Self-Directed Professional Development Blog Entry
 
 ## Tokens
-Each student will be credited with 5 tokens. Each token can be used to:
+Each student will be able to earn up to 5 tokens in the first week. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
+
+Each token can be used to:
 
 * replace a single missed class session (up to a maximum of 3 missed class sessions)
 * turn in an assignment late by 24 hours

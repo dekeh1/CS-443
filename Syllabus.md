@@ -1,8 +1,5 @@
-*Version 2017-Fall-0.9, Revised 6 September 2017*
+*Version 2017-Fall-1.0-FINAL, Revised 15 September 2017*
 ### *CS-443 01 &mdash; Fall 2017*
-
-<font color=red size=7>DRAFT</font><br>
-<font color=red size=4>This is a draft version. It is subject to change until the first day of class on 7 September 2017.</font>
 
 # CS-443 Software Quality Assurance and Testing
 
@@ -185,7 +182,7 @@ Assignments<br>&nbsp;(out of *n* assignments, where *n* &#8776; 8) |
 &nbsp;&nbsp;&mdash; Base Assignment |  *n* | *n* | *n*  | *n* - 1
 &nbsp;&nbsp;&mdash; Intermediate "Add-On" |  5 | 3 | 1 | 
 &nbsp;&nbsp;&mdash; Advanced "Add-On" | 2 | 1 |  | 
-Self-Directed Professional Development Blog Entries<br>&nbsp;(out of 14 weeks) | 10 | 8 | 6 | 4
+Self-Directed Professional Development Blog Entries<br>&nbsp;(out of 14 weeks) | 9 | 7 | 5 | 3
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 8 acceptable "Self-Directed Reading Blog Entries", you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**

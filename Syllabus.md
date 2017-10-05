@@ -1,4 +1,4 @@
-*Version 2017-Fall-1.0-FINAL, Revised 15 September 2017*
+*Version 2017-Fall-1.1-FINAL, Revised 5 October 2017*
 ### *CS-443 01 &mdash; Fall 2017*
 
 # CS-443 Software Quality Assurance and Testing
@@ -258,12 +258,25 @@ Late work will not be accepted. (See *Tokens* below.)
 
 ## Revision and Resubmission of Work
 
-Because your first attempt at producing acceptable work for a new category of assignment may be difficult due to being unfamiliar with the specification and not having had any feedback yet, you may revise and resubmit ***a single*** assignment in each of the following categories *only*:
+### For Assignments
+If you receive a "Not Acceptable" on any portion of an Assignment (Base, Intermediate Add-On, or Advanced Add-On) you may revise and resubmit the assignment ***one time only*** without the use of a token.
 
-* Base Assignment
-* Intermediate Assignment "Add-On"
-* Advanced Assignment "Add-On"
-* Self-Directed Professional Development Blog Entry
+* You must have submitted the original assignment on time, (or one day late with the use of a token.)
+* You must submit your revision within one week from the date when the "Not Acceptable" grade and comments were posted in My Grades. (You may use a token to submit the revision one day late.)
+* You may ask me for clarification of the assignment, or of the comments I made on your submission.
+* You may ask me to look at your revised solution to see if it addresses my comments.
+* If you address all the comments in an acceptable fashion, your grade will be converted to "Acceptable".
+* You must let me know by email when you resubmit the assignment, so that I know to regrade it.
+
+### For Self-Directed Professional Development Blog Entries.
+You may revise and resubmit the ***first*** blog entry on which you receive a "Not Acceptable" without the use of a token.
+
+* You must have submitted the original blog entry on time, (or one day late with the use of a token.)
+* You must submit your revision within one week from the date when the "Not Acceptable" grade and comments were posted in My Grades. (You may use a token to submit the revision one day late.)
+* You may ask me for clarification of the comments I made on your blog entry.
+* You may ask me to look at your revised blog entry to see if it addresses my comments.
+* If you address all the comments in an acceptable fashion, your grade will be converted to "Acceptable".
+* You must let me know by email when you have posted the revised blog entry (with the URL to the revised blog entry), so that I know to regrade it.
 
 ## Tokens
 Each student will be able to earn up to 5 tokens in the first week. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.

@@ -1,5 +1,5 @@
-*Version 2017-Fall-1.1-FINAL, Revised 5 October 2017*
-### *CS-443 01 &mdash; Fall 2017*
+*Version 2018-Fall-0.1, Revised 5 July 2018*
+### *CS-443 01, 02 &mdash; Fall 2018*
 
 # CS-443 Software Quality Assurance and Testing
 
@@ -15,8 +15,9 @@ Dr. Karl R. Wurst<br>
 See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
 
 ## Meeting Times and Location
-TR 1:00-2:15pmm<br>
-ST 107
+Section | Day/Time | Room
+:-: | :-: | :-:01 | MW 8:00-9:15am | ST 107
+02 | MW 3:30-4:45pm | ST 107
 
 ## It's in the Syllabus
 <span title="http://www.phdcomics.com/comics.php?f=1583"><a href=http://www.phdcomics.com/comics.php?f=1583><img src=http://www.phdcomics.com/comics/archive/phd051013s.gif alt="Cartoon about looking in the syllabus first before asking questions."></a></span>
@@ -27,15 +28,15 @@ ST 107
 <table cellpadding="1" border="0">
 <tbody>
 <tr>
-<td><img src="http://cs.worcester.edu/kwurst/img/9781466560680.jpg" width="110" /></td>
-<td><em>Software Testing: A Craftsman’s Approach, Fourth Edition</em><br />
-Paul C. Jorgensen<br />
-CRC Press, 2013<br />
-ISBN-13: 9781466560680<br /> 
-<a target="_blank" href="https://www.crcpress.com/Software-Testing-A-Craftsmans-Approach-Fourth-Edition/Jorgensen/9781466560680">Textbook website</a></td>
+<td><a title="By Michael Reschke (self-made, following OERCommons.org&#039;s example) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOERlogo.svg"><img width="256" alt="OERlogo" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OERlogo.svg/256px-OERlogo.svg.png"/></a>
+</td>
+<td>This course has no required textbook.
+<br><br>
+Instead we will be using freely available learning resources for all of the topics in this course.</td>
 </tr>
 </tbody>
 </table>
+
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
@@ -231,9 +232,12 @@ Each assignment will also have an *Advanced Add-On* portion can be completed for
 ## Exams
 We will have a midterm exam and a final exam.
 
-The midterm is tentively scheduled to be given during class during the week of 16 October 2017.
+The midterm is tentively scheduled to be given during class during the week of 15 October 2018.
 
-Our scheduled final exam period is Thursday, 14 December 2017, 12:30-3:30pm
+Final project presentations will be given during our scheduled final exam periods of:
+
+* Section 01 (M/W 8:00-9:15am) &mdash; Wednesday, 12 December 2018 &mdash; 8:30-11:30am
+* Section 02 (M/W 3:30-4:45pm) &mdash; Wednesday, 19 December 2018 &mdash; 8:00-11:00am
 
 ## Self-Directed Professional Development Blog
 Two of the CS Program-Level Student Learning Outcomes that this course addresses are:
@@ -363,24 +367,28 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 **This schedule is subject to change.**
 
-Week | Tuesday | Thursday
-:-: | :-: | :-:1 | 5 September 2017<br>**No Class**<br>Pre-College Conference | 7 September 2017<br>*Part I: A Mathematical Context*<br>Chapter 1 
-2 | 12 September 2017<br>*Part I: A Mathematical Context*<br>Chapters 2, 3, and 4 | 14 September 2017<br>*Part II: Unit Testing*<br>Chapter 53 | 19 September 2017<br>*Part II: Unit Testing*<br>Chapters 5, 6 | 21 September 2017<br>*Part II: Unit Testing*<br>Chapter 6
-4 | 26 September 2017<br>*Part II: Unit Testing*<br>Chapter 7 | 28 September 2017<br>*Part II: Unit Testing*<br>Chapters 7, 8
-5 | 3 October 2017<br>*Part II: Unit Testing*<br>Chapter 8 | 5 October 2017<br>*Part II: Unit Testing*<br>Chapter 9
-6 | 10 October 2017<br>**No Class**<br>I will be away | 12 October 2017<br>*Part II: Unit Testing*<br>Chapter 10
-7 | 17 October 2017<br>**Midterm Exam** | 19 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapters 11, 12
-8 | 24 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 13 | 26 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 13
-9 | 31 October 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 14 | 2 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapters 14, 15
-10 | 7 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 15 | 9 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 16
-11 | 14 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 17 | 16 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 18, 19
-12 | 21 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 19 | 23 November 2017<br>**No Class**<br>Thanksgiving Recess
-13 | 28 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapters 20, 21 | 30 November 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 22
-14 | 5 December 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 22 | 7 December 2017<br>*Part III: Beyond Unit Testing*<br>Chapter 23
-Final Exams | | 14 December 2017<br>**Final Exam**<br>12:30-3:30am
+Week | Monday| Wednesday
+:-: | :-: | :-:1 | 3 September 2018<br>**No Class**<br>Labor Day | 5 September 2018<br>Class 1
+2 | 10 September 2018<br>Class 2 | 12 September 2018<br>Class 33 | 17 September 2018<br>Class 4 | 19 September 2018<br>Class 5
+4 | 24 September 2018<br>Class 6 | 26 September 2018<br>Class 7
+5 | 1 October 2018<br>Class 8 | 3 October 2018<br>Class 9
+6 | 8 October 2018<br>**No Class**<br>Columbus Day| 10 October 2018<br>Class 10
+7 | 15 October 2018<br>Class 11 | 17 October 2018<br>**Midterm Exam**
+8 | 22 October 2018<br>**No Class**<br>I will be away | 24 October 2018<br>Class 13
+9 | 29 October 2018<br>Class 14 | 31 October 2018<br>Class 15
+10 | 5 November 2018<br>Class 16 | 7 November 2018<br>Class 17
+11 | 12 November 2018<br>**No Class**<br>Veterans Day | 14 November 2018<br>Class 18
+12 | 19 November 2018<br>Class 19 | 21 November 2018<br>**No Class**<br>Thanksgiving Recess
+13 | 26 November 2018<br>Class 20 | 28 November 2018<br>Class 21
+14 | 3 December 2018<br>Class 22 | 5 December 2018<br>Class 23
+15 | 10 December 2018<br>Class 24 | 
 
+Section | Scheduled Final Exam Time
+:-: | :-:
+**01**<br>M/W 8:00-9:15am | **Wednesday, 12 December 2018<br>8:30-11:30am**
+**02**<br>M/W 3:30-4:45pm | **Wednesday, 19 December 2018<br>8:00-11:00am**
 ## Copyright and License
 
-#### &copy; 2017 Karl R. Wurst, Worcester State University
+#### &copy; 2018 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/]() or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

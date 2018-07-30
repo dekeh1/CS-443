@@ -1,4 +1,4 @@
-*Version 2018-Fall-0.1, Revised 5 July 2018*
+*Version 2018-Fall-0.2, Revised 30 July 2018*
 ### *CS-443 01, 02 &mdash; Fall 2018*
 
 # CS-443 Software Quality Assurance and Testing
@@ -16,7 +16,7 @@ See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
 
 ## Meeting Times and Location
 Section | Day/Time | Room
-:-: | :-: | :-:01 | MW 8:00-9:15am | ST 107
+:-: | :-: | :-:01 | MW 8:00-9:15am | Sullivan 105
 02 | MW 3:30-4:45pm | ST 107
 
 ## It's in the Syllabus

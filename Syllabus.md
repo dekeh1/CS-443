@@ -1,4 +1,6 @@
 *Version 2018-Fall-0.4, Revised 9 August 2018*
+# <font color=red> This is a DRAFT syllabus and subject to change until the first day of class.</font>
+
 ### *CS-443 01, 02 &mdash; Fall 2018*
 
 # CS-443 Software Quality Assurance and Testing

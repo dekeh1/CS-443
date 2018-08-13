@@ -1,4 +1,4 @@
-*Version 2018-Fall-0.4, Revised 9 August 2018*
+*Version 2018-Fall-0.5, Revised 13 August 2018*
 # <font color=red> This is a DRAFT syllabus and subject to change until the first day of class.</font>
 
 ### *CS-443 01, 02 &mdash; Fall 2018*
@@ -372,17 +372,19 @@ It is my policy to securely dispose of student work one calendar year after grad
 **This schedule is subject to change.**
 
 Week | Monday| Wednesday
-:-: | :-: | :-:1 | 3 September 2018<br>**No Class**<br>Labor Day | 5 September 2018<br>Team Roles and Grading Schemes, Syllabus, Testing: Purpose and Terminology
-2 | 10 September 2018<br>Unit Testing: Test Cases, How to Test: JUnit | 12 September 2018<br>Unit Testing: How to Test: JUnit3 | 17 September 2018<br>Unit Testing: How to Test: Automation, Maven, CI | 19 September 2018<br>Unit Testing: What to Test: Boundary Value Testing (Functions and Relations)
+:-: | :-: | :-:
+1 | 3 September 2018<br>**No Class**<br>Labor Day | 5 September 2018<br>Team Roles and Grading Schemes, Syllabus, Testing: Purpose and Terminology
+2 | 10 September 2018<br>Unit Testing: Test Cases, How to Test: JUnit | 12 September 2018<br>Unit Testing: How to Test: JUnit
+3 | 17 September 2018<br>Unit Testing: How to Test: Automation, Maven, CI | 19 September 2018<br>Unit Testing: What to Test: Boundary Value Testing (Functions and Relations)
 4 | 24 September 2018<br>Unit Testing: What to Test: Equivalence Class Testing (Set Theory) | 26 September 2018<br>Unit Testing: What to Test: Decision Tables (Logic)
 5 | 1 October 2018<br>Unit Testing: What to Test: Program Graphs, DD Path Testing (Graphs) | 3 October 2018<br>Unit Testing: What to Test: Data Flow, Define/Use, Slices (Graphs)
-6 | 8 October 2018<br>**No Class**<br>Columbus Day| 10 October 2018<br>Unit Testing: Coverage
-7 | 15 October 2018<br>Unit Testing: OO Testing - What are units?, MM-Path, Data Flow | 17 October 2018<br>**Midterm Exam**
-8 | 22 October 2018<br>**No Class**<br>I will be away | 24 October 2018<br>Unit Testing: Test Doubles
-9 | 29 October 2018<br>Unit Testing: Test Quality: Mutation Testing, Fuzzing | 31 October 2018<br>Development: Test-Driven Development
-10 | 5 November 2018<br>Development: Test-Driven Development | 7 November 2018<br>Development: Behavior-Driven Development
+6 | 8 October 2018<br>**No Class**<br>Columbus Day| 10 October 2018<br>Unit Testing: OO Testing - What are units?, MM-Path, Data Flow
+7 | 15 October 2018<br>Unit Testing: Test Doubles | 17 October 2018<br>**Midterm Exam**
+8 | 22 October 2018<br>Integration Testing | 24 October 2018<br>Test Quality: Coverage
+9 | 29 October 2018<br>Test Quality: Mutation Testing, Fuzzing | 31 October 2018<br>Development: Test-Driven Development
+10 | 5 November 2018<br>Development: Test-Driven Development | 7 November 2018<br>Development: Test-Driven Development
 11 | 12 November 2018<br>**No Class**<br>Veterans Day | 14 November 2018<br>Development: Behavior-Driven Development
-12 | 19 November 2018<br>Integration Testing | 21 November 2018<br>**No Class**<br>Thanksgiving Recess
+12 | 19 November 2018<br>Development: Behavior-Driven Development | 21 November 2018<br>**No Class**<br>Thanksgiving Recess
 13 | 26 November 2018<br>System Testing | 28 November 2018<br>Static Analysis
 14 | 3 December 2018<br>Software Technical Review| 5 December 2018<br>Software Technical Review
 15 | 10 December 2018<br>Overflow/Slack/Things Take Longer Than You Think | 

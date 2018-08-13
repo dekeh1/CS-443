@@ -63,13 +63,13 @@ You will spend 3 hours per week in class. In addition, you should expect to spen
 >Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
 
 >1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
-2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
+>2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
 
 ## Prerequisites
 
-This course has a prerequisite of CS-242 – Data Structures. I expect you to be able to read a problem specification, and read, trace, and understand procedural and object-oriented code. I expect that you have had experience using a unit-testing framework and developing a set of test cases for simple code. I expect that you have had experience using a version control system.
+This course has a prerequisite of CS-242 – Data Structures. I expect you to be able to read a problem specification, and read, trace, and understand procedural and object-oriented code. I expect that you have had experience using a unit-testing framework and developing a set of test cases for simple code. I expect that you have had experience using a version control system to fork/clone, add/commmit, and push/pull.
 
 This course has a prerequisite of MA-150 – Statistics I or MA-302 – Probability and Statistics. I expect that you are able to be able to apply basic statistics and probability.
 
@@ -125,7 +125,7 @@ Upon successful completion of the Major in Computer Science, students will be ab
 ## Course Topics
 
 * Terminiology - Error, Fault, Failure, Incident, Test, Test Case
-* Test Cases
+* Test Cases - Content and Structure
 * Behavioral vs Structural Testing
 * Specification-Based vs Code-Based Testing
 * Black-Box vs. Gray-Box vs. White/Clear-Box Testing
@@ -137,18 +137,15 @@ Upon successful completion of the Major in Computer Science, students will be ab
     * Code-based - Path Testing, Data Flow Testing 
     * Code Coverage
     * JUnit
-* Life Cycle-Based Testing
-* Model-Based Testing
 * Integration Testing
-    * Mocking
+    * Test Doubles
 * System Testing
 * Object-Oriented Testing
-* Software Complexity
 * Test-Driven Development
+* Behavior-Driven Development
 * Test Case Evaluation
 * Code Reviews
 * Test Automation
-* Testing Web Applications
 
 ## Grading Policies
 

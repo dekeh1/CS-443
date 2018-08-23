@@ -1,4 +1,4 @@
-*Version 2018-Fall-1.0, Revised 14 August 2018*
+*Version 2018-Fall-1.1, Revised 23 August 2018*
 # <font color=red> This is a DRAFT syllabus and subject to change until the first day of class.</font>
 
 ### *CS-443 01, 02 &mdash; Fall 2018*
@@ -44,7 +44,8 @@ Instead we will be using freely available learning resources for all of the topi
 ## Required Materials
 To successfully complete this course you will need:
 
-1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
+1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. **You must bring your laptop to every class session.**
+The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:    
 	1.	**Blackboard** – All course materials and announcements will be made available through the course site on Blackboard. Students will be required to use Blackboard as the course tool and be familiar with uploading files. 
 	2. **WSU Gmail** &mdash; You must check your WSU Gmail account on a regular basis. All communications to the class, such as corrections to problem sets or changes in due dates, will be sent to your WSU Gmail account.
